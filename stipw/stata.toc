@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p stipw Inverse probability weighted parametric survival models with variance obtained via M-estimation Use stipw With STATA 18
